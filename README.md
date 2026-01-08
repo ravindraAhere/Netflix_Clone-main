@@ -1,2 +1,3 @@
-# Netflix_Clone-main
-A Netflix Clone is a digital platform or application replicating Netflix's core features, offering on-demand streaming of movies, TV shows, and web series with a similar user interface, personalized recommendations, user authentication, and payment integration for subscriptions, built using various web technologies
+# Netflix_Clone
+Netflix front end clone desktop version usign html and css
+check this website at this link;-   https://ritesh-0309.github.io/Netflix_Clone/
